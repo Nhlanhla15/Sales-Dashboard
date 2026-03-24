@@ -17,6 +17,7 @@ Skills used
 
 
 🔍 Key Insights from the Sales Data
+
 📈 1. Sales Performance Trends
 Sales show clear fluctuations over time, with certain months performing significantly better than others.
 This clearly indicates seasonality and demand patterns that the business can leverage.
@@ -57,6 +58,7 @@ Target profitable customer segments.
 Investigate underperforming regions/products.
 Use historical trends to forecast future sales.
 👉 Dashboards are used to assist businesses identify trends, track KPIs, and make better decisions.
+
 
 Conclusion
 This project demonstrates how data can be transformed into actionable insights using data analysis and visualization tools.
